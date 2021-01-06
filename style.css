@@ -90,7 +90,6 @@ nav ul li
 }
 
 nav ul li a{
-    /* background-color: blue; */
     color: black;
     padding: 20px;
     display: block;
@@ -119,7 +118,7 @@ nav ul li a{
 }
 .latest-work{
     background-color: #E5E5E5;
-    padding: 100px 0;
+    padding: 150px 0;
     height: 600px;
     margin-top: 0px;
 }
@@ -139,7 +138,7 @@ nav ul li a{
     color: #363958;
 }
 .work-section{
-    height: 850px;
+    height: 900px;
     margin-top: 300px;
 
 
@@ -147,18 +146,15 @@ nav ul li a{
 
 .enquire-section{
 
-    height: 400px;
+    height: 300px;
 }
 .enquire-box{
 
-    /* background-image: url("images/enq-bj1.png");
-    background-repeat: no-repeat;
-    background-position:center; */
     background-color: blue;
-    height: 110px;
+    height: 76px;
     align-items: center;
     margin: 150px 300px;
-    padding: 50px;
+    padding: 75px;
     border-radius: 30px;
 }
 .btn-alaign{
@@ -209,10 +205,6 @@ nav ul li a{
     margin: 0 1.2%;
     padding-left: 2%;
     transition: 0.3s;
-}
-.skill-logo-width:hover{
-    /* width: 12%; */
-
 }
 .skill-logo-width img {
     width: 100%;
