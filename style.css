@@ -6,7 +6,7 @@ body{
 
 .section-space{
 
-    height: 750px;
+    height: 700px;
 }
 
 .two-colum{
@@ -19,19 +19,20 @@ body{
 }
 .three-colum{
 
-    width: 30%;
-    float: left;
-    margin-left: 1%;
-    padding-left: 2%;
+    width: 25%;
+    float:left;
+    margin-left: 3%;
+    padding-left: 3%;
 
 }
 .two-colum img{
     width: 80%;
+    
 }
 .three-colum img{
 
     width: 100%;
-    background-color: whitesmoke;
+    border-radius: 20px;
 }
 .intro-text{
 
@@ -93,11 +94,28 @@ a{
     border-radius: 20px;
 }
 .latest-work{
-    background-color: rgb(178, 195, 202);
-    padding: 200px 0;
+    background-color: #E5E5E5;
+    padding: 100px 0;
     height: 600px;
-    margin-top: 50px;
+    margin-top: 0px;
 }
 .latest-work-header{
     color:  orangered;
+}
+.latest-work-card{
+
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+}
+.card-heading{
+
+    font-size: 24px;
+    color: #363958;
+}
+.work-section{
+    height: 700px;
+    margin-top: 200px;
+
+
 }
