@@ -107,6 +107,7 @@ a{
     background-color: white;
     padding: 20px;
     border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px darkgray;
 }
 .card-heading{
 
@@ -122,17 +123,18 @@ a{
 
 .enquire-section{
 
-    height: 500px;
+    height: 400px;
 }
 .enquire-box{
 
-    background-image: url("images/enq-bj1.png");
+    /* background-image: url("images/enq-bj1.png");
     background-repeat: no-repeat;
-    background-position:center;
-    height: 100px;
+    background-position:center; */
+    background-color: blue;
+    height: 110px;
     align-items: center;
-    margin: 250px ;
-    padding: 100px;
+    margin: 150px 300px;
+    padding: 50px;
     border-radius: 30px;
 }
 .btn-alaign{
@@ -158,6 +160,7 @@ a{
 .contact-heading{
     font-size: 24px;
     padding-bottom: 0;
+    color: darkgray;
 }
 .contact-email{
     font-size: 36px;
