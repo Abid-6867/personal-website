@@ -74,7 +74,7 @@ a{
 }
 nav{
     float:right;
-    padding-right: 150px;
+    padding-right: 250px;
 }
 nav ul{
     float: left;
@@ -140,7 +140,7 @@ nav ul li a{
 }
 .work-section{
     height: 850px;
-    margin-top: 200px;
+    margin-top: 300px;
 
 
 }
@@ -200,7 +200,7 @@ nav ul li a{
     background-repeat: no-repeat;
     background-position: center;
     margin: 50px 0;
-    padding: 50px 0 ;
+    padding: px 0 ;
     text-align: center;
 }
 .skill-logo-width{
