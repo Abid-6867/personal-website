@@ -150,7 +150,9 @@ nav ul li a{
 }
 .enquire-box{
 
-    background-color: blue;
+    background-image: url("images/enq-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
     height: 76px;
     align-items: center;
     margin: 150px 300px;
@@ -180,7 +182,7 @@ nav ul li a{
 .contact-heading{
     font-size: 24px;
     padding-bottom: 0;
-    color: darkgray;
+    color: darkblue;
 }
 .contact-email{
     font-size: 36px;
@@ -192,18 +194,20 @@ nav ul li a{
 .my-skill-section{
 
     height: 480px;
-    background-image: url("images/biography-bg.png");
-    background-repeat: no-repeat;
-    background-position: center;
-    margin: 50px 0;
+    margin: 50px 50px;
     padding: px 0 ;
     text-align: center;
 }
+.my-skill{
+
+    margin-left: 20px;
+    margin-top: 20px;
+}
 .skill-logo-width{
-    width: 12%;
+    width: 10%;
     float: left;
-    margin: 0 1.2%;
-    padding-left: 2%;
+    margin: 0 2%;
+    padding: 0 1%;
     transition: 0.3s;
 }
 .skill-logo-width img {
